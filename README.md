@@ -1,5 +1,5 @@
 # 💫 About Me:
-Am manish <br>i'm currently learning about Data analyst<br>I am a MBA graduate with data science <br>
+Am preeti <br>i'm currently learning about Data analyst<br>I am a MBA graduate with data science <br>
 
 
 ## 🌐 Socials:
