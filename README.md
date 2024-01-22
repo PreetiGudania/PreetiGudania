@@ -1,5 +1,6 @@
 # 💫 About Me:
-Hi there! I'm Preeti Gudania, a passionate data analyst with a knack for turning raw data into meaningful insights.  
+Hi there! I'm Preeti Gudania.
+A passionate data analyst with a knack for turning raw data into meaningful insights.  
 
 
 ## 🌐 Socials:
